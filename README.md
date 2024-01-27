@@ -1,7 +1,19 @@
 # FCC_Responsive_WebDesign_Cafe_Menu
-This is a simple static web page built with HTML, CSS showing a Cafe Menu, price lists and look like a menu Card as follows:
-![FSD_CSS_Cafe_Menu](https://github.com/Sriinidhi/FCC_Responsive_WebDesign_Cafe_Menu/assets/102644860/53170d87-4f2f-41f8-924e-499bfa4ffa09)
+Hello there!
+Here I share about the Freecodecamp responsive web design module Code, completed projects which worked by me and developed.
 
-Follow the steps from blog: https://nidhiblog.hashnode.dev/simple-basics-of-css-to-create-a-cafe-menu
+Module name: learn-basic-css-by-building-a-cafe-menu
 
-Practise on : https://www.freecodecamp.org/learn/2022/responsive-web-design/
+Link for practise: https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu
+
+Blog on Module: https://nidhiblog.hashnode.dev/simple-basics-of-css-to-create-a-cafe-menu
+
+Final Output: https://76db10e1-5a21-4ae3-8e76-921a26e62221-00-1o6k4h1lgve38.pike.replit.dev/
+
+twiter Post: 
+
+mastodon Post: 
+
+Please do consider and verify my work, open for any suggestions & compliments.
+Thank You!
+Happy Learning!!
