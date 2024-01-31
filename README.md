@@ -10,9 +10,7 @@ Blog on Module: https://nidhiblog.hashnode.dev/simple-basics-of-css-to-create-a-
 
 Final Output: https://76db10e1-5a21-4ae3-8e76-921a26e62221-00-1o6k4h1lgve38.pike.replit.dev/
 
-twiter Post: 
 
-mastodon Post: 
 
 Please do consider and verify my work, open for any suggestions & compliments.
 Thank You!
